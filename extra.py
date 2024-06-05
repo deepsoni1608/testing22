@@ -27,7 +27,7 @@ if len(string) > 3:
     max_freq.sort(reverse = true)
 #    print(max_freq_char,max_freq)
 
-
+#i added here comment for checking git
 
 ##3rd program
 n = int(input("Enter the value of n: "))
